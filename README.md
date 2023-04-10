@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hasan Efe Dinç</h1>
-<h3 align="center">A gamer interested in game development</h3>
 
 - 🔭 I’m currently working on **Unity**
 
