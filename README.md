@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Unity**
 
-- 🌱 I’m currently **learning Html,Css,JavaScript**
+- 🌱 I’m currently learning **Html,Css,JavaScript**
 
 - 📫 How to reach me **Efedinc35@hotmail.com**
 
