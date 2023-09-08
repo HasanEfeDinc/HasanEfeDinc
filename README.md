@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Unity**
 
-- 🌱 I’m currently learning **Html,Css,JavaScript**
-
 - 📫 How to reach me **Efedinc35@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
