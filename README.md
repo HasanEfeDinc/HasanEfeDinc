@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Efe Dinç</h1>
 
-- 🔭 I’m currently working on **Unity**
-
 - 📫 How to reach me **Efedinc35@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
